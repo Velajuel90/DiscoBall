@@ -454,4 +454,4 @@ message.channel.send(`${sing}`);
   }
 });
 
-client.login('NjcxMDEwNTYyMTg3OTg0OTA4.Xi2uQQ.oNKISF1WoyL1djbdmaCjEtvZbzU');
+client.login(process.env.BOT_TOKEN);
