@@ -1382,4 +1382,4 @@ client.on("message", (message) => {
 });
 
 
-client.login("NjcxMDEwNTYyMTg3OTg0OTA4.XjMpLA.pDcJLGBNRHL3gE8NL-bQSDTMzq0");
+client.login("HIDDEN");
